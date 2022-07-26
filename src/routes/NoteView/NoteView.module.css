@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@900&family=Vujahday+Script&family=Yanone+Kaffeesatz:wght@300;400;500&display=swap');
+
+.main {
+    font-size: 25px;
+    padding: 2rem;
+    position: sticky;
+    top: 140px;
+    width: 25vw;
+    border-radius: 2%;
+    margin: 25px;
+}
+
+button {
+    font-size: 20px;
+    padding: 5px;
+    color: rgb(189, 6, 6);
+    box-shadow: 8.0px 16.0px 16.0px hsl(0deg 0% 0% / 0.25);
+    margin: 0 15px 15px;
+    border: 3px solid rgb(130, 156, 167);
+    border-radius: 3px;
+}
+
+textarea{
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin: 20px;
+    background-color: rgb(172, 167, 167);
+    box-shadow: 8.0px 16.0px 16.0px hsl(0deg 0% 0% / 0.25);
+}
+.para{
+    margin: 15px;  
+}
+.view {
+    border: 3px solid rgb(130, 156, 167);
+    padding: 12px;
+    border-radius: 5px;
+    box-shadow: 8.0px 16.0px 16.0px hsl(0deg 0% 0% / 0.25);
+}
+
