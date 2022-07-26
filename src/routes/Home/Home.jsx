@@ -28,7 +28,7 @@ export default function Home() {
           😇 The purpose of this project is to practice building a React
           application.
         </div>
-        {/* <Outlet /> */}
+        <Outlet />
       </main>
     </>
   );
